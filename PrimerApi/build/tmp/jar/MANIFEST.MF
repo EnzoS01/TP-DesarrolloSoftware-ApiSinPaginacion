@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-PrimerApiApplication: com.example.PrimerApi.PrimerApiApplication
-
